@@ -1,2 +1,3 @@
-# Intromimo
+# Intro
+
 My first repository
